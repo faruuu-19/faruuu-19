@@ -1,4 +1,4 @@
-# faryal siddique
+![banner](banner.svg)
 
 **ai engineering · agentic systems · llm pipelines · ml systems research**
 📍 islamabad, pakistan · 📬 faryalnet34@gmail.com
