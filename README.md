@@ -27,7 +27,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 AI Engineering undergraduate at **FAST-NUCES** specialising in agentic systems, LLM orchestration, ML systems research, and production-grade AI pipelines. I build multi-agent LangGraph-based workflows, RAG systems, GPU-optimised inference pipelines, and novel deep learning architectures. I've conducted original research across AI systems and parallel computing, with one paper submitted to IBCAST 2026. Focused on real-world, deployable AI engineering — from resume-to-knowledge-graph pipelines to autonomous dataset auditing frameworks.
 
@@ -39,7 +39,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -56,12 +56,12 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 **LLM & Agents**
 
-<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-A78BFA?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Ollama-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph.svg" height="48"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" height="48"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/llamaindex.svg" height="48"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="48"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="48"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" height="48"/>
 
 **RAG & Vector DBs**
 
@@ -87,9 +87,9 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 **Automation & Tools**
 
 <img src="https://skillicons.dev/icons?i=git,linux,docker&theme=dark"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n.svg" height="48"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/zapier.svg" height="48"/>
 <img src="https://img.shields.io/badge/Make-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Zapier-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/n8n-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Streamlit-A78BFA?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Pandas%20%7C%20NumPy%20%7C%20Matplotlib%20%7C%20Seaborn-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 
@@ -99,7 +99,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>🗣️ TakTalk — Deafblind Multimodal Communication System</b></summary>
@@ -181,7 +181,7 @@ Implements a 4-tool orchestration suite (CRM, calendar, catalog, calculator) wit
 
 ---
 
-## 💼 Experience
+## Experience
 
 **NLP/LLM Intern** · NASTP (National Aerospace Science and Technology Park)
 `Jun 2026 – Present` · Islamabad, Pakistan
@@ -216,7 +216,7 @@ Worked across applied ML projects spanning computer vision, tabular modeling, an
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Worked across applied ML projects spanning computer vision, tabular modeling, an
 
 ---
 
-## 📄 Research
+## Research
 
 **Temporal Deformation Transformer for HAR**
 Novel Transformer architecture for WISDM-18 HAR; submitted to IBCAST 2026.
@@ -245,7 +245,7 @@ FP16 mixed-precision, pipeline-parallel inference; 60x speedup over CPU baseline
 
 ---
 
-## 🎓 Education
+## Education
 
 **BS Artificial Intelligence** — FAST-NUCES, Islamabad
 `2023 – Present`
@@ -258,30 +258,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faruuu-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=faruuu-19&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruuu-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-
-</div>
-
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faruuu-19&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
-<br/>
-
-## 📊 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -291,7 +268,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -303,7 +280,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -328,7 +305,7 @@ Open To:
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
