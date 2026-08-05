@@ -27,7 +27,7 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
 AI Engineering undergraduate at **FAST-NUCES** specialising in agentic systems, LLM orchestration, ML systems research, and production-grade AI pipelines. I build multi-agent LangGraph-based workflows, RAG systems, GPU-optimised inference pipelines, and novel deep learning architectures. I've conducted original research across AI systems and parallel computing, with one paper submitted to IBCAST 2026. Focused on real-world, deployable AI engineering — from resume-to-knowledge-graph pipelines to autonomous dataset auditing frameworks.
 
@@ -39,7 +39,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 ---
 
-## Tech Stack
+## 🔧 Tech Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 ---
 
-## AI / ML Expertise
+## 🧠 AI / ML Expertise
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🗣️ TakTalk — Deafblind Multimodal Communication System</b></summary>
@@ -181,7 +181,7 @@ Implements a 4-tool orchestration suite (CRM, calendar, catalog, calculator) wit
 
 ---
 
-## Experience
+## 💼 Experience
 
 **NLP/LLM Intern** · NASTP (National Aerospace Science and Technology Park)
 `Jun 2026 – Present` · Islamabad, Pakistan
@@ -194,7 +194,7 @@ Building an end-to-end pipeline turning résumé PDFs into a structured Neo4j kn
 - Ran two local models together (llama.cpp DeepSeek-R1-32B + vLLM Qwen3.5-9B) with reasoning-token suppression and context-window budgeting
 - Tested pipeline with 42 unit tests across 7 files, with the LLM layer mocked for deterministic runs
 
-`Python` `FastAPI` `Neo4j` `Postgres` `LangGraph` `LLM Orchestration` `Entity Resolution`
+<img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Neo4j-8B5CF6?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Postgres-A78BFA?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/LLM%20Orchestration-7C3AED?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Entity%20Resolution-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 
 <br/>
 
@@ -210,13 +210,13 @@ Worked across applied ML projects spanning computer vision, tabular modeling, an
 - Optimized a Decision Tree Regressor with GridSearchCV, achieving R² = 0.775, and analyzed feature importance
 - Applied PCA, SMOTE, EarlyStopping, and ReduceLROnPlateau to improve model performance and training stability
 
-`Python` `PyTorch` `XGBoost` `Scikit-learn` `Streamlit` `Transfer Learning`
+<img src="https://img.shields.io/badge/Python-A78BFA?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/PyTorch-6D28D9?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/XGBoost-7C3AED?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Scikit--learn-8B5CF6?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Streamlit-A78BFA?style=flat-square&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Transfer%20Learning-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 
 <br/>
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Worked across applied ML projects spanning computer vision, tabular modeling, an
 
 ---
 
-## Research
+## 📄 Research
 
 **Temporal Deformation Transformer for HAR**
 Novel Transformer architecture for WISDM-18 HAR; submitted to IBCAST 2026.
@@ -245,7 +245,7 @@ FP16 mixed-precision, pipeline-parallel inference; 60x speedup over CPU baseline
 
 ---
 
-## Education
+## 🎓 Education
 
 **BS Artificial Intelligence** — FAST-NUCES, Islamabad
 `2023 – Present`
@@ -258,12 +258,12 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=faruuu-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faruuu-19&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=faruuu-19&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruuu-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
@@ -271,17 +271,17 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
-## GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=faruuu-19&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=faruuu-19&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
 <br/>
 
-## Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -291,7 +291,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -303,7 +303,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -328,7 +328,7 @@ Open To:
 
 ---
 
-## Connect
+## 📬 Connect
 
 <div align="center">
 
