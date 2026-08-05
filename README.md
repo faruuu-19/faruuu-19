@@ -33,28 +33,25 @@ AI Engineering undergraduate at **FAST-NUCES** specialising in agentic systems, 
 
 ```yaml
 Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaborations, Software Engineering Internships
-```
 
 <br/>
 
----
-
-## Tech Stack
+Tech Stack
 
 <div align="center">
 
-**Languages**
+Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,csharp&theme=dark"/>
 <img src="https://img.shields.io/badge/Assembly-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 
-**ML / AI Frameworks**
+ML / AI Frameworks
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 <img src="https://img.shields.io/badge/XGBoost-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/CNNs%20%7C%20LSTMs%20%7C%20Transformers-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 
-**LLM & Agents**
+LLM & Agents
 
 <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&labelColor=1a1a2e"/>
@@ -63,7 +60,7 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 <img src="https://img.shields.io/badge/Ollama-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 
-**RAG & Vector DBs**
+RAG & Vector DBs
 
 <img src="https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/FAISS-7C3AED?style=flat-square&labelColor=1a1a2e"/>
@@ -71,20 +68,20 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 <img src="https://img.shields.io/badge/Sentence--Transformers-A78BFA?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/BM25%20%7C%20RRF%20%7C%20Dense%20Retrieval-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 
-**Systems & Parallel Computing**
+Systems & Parallel Computing
 
 <img src="https://img.shields.io/badge/CUDA-6D28D9?style=flat-square&logo=nvidia&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/FP16%20Mixed%20Precision-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Pipeline%20Parallelism-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/GPU%20Inference%20Optimization-A78BFA?style=flat-square&labelColor=1a1a2e"/>
 
-**Backend & Databases**
+Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,mongodb,mysql&theme=dark"/>
 <img src="https://img.shields.io/badge/WebSockets-7C3AED?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Async%20Python-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 
-**Automation & Tools**
+Automation & Tools
 
 <img src="https://skillicons.dev/icons?i=git,linux,docker&theme=dark"/>
 <img src="https://img.shields.io/badge/Make-6D28D9?style=flat-square&labelColor=1a1a2e"/>
@@ -97,28 +94,57 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 <br/>
 
----
-
-## AI / ML Expertise
+AI / ML Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Agentic Systems** | ⭐⭐⭐⭐⭐ | LangGraph multi-agent workflows, MCP tool orchestration, autonomous dataset auditing with contingency planning |
-| **RAG Systems** | ⭐⭐⭐⭐⭐ | ChromaDB, FAISS, Sentence-Transformers, BM25 + RRF hybrid retrieval, pluggable LLM routing |
-| **Deep Learning Architectures** | ⭐⭐⭐⭐⭐ | Novel Temporal Deformation Transformer for HAR (95.53% validation accuracy on WISDM-18) |
-| **GPU / Parallel Computing** | ⭐⭐⭐⭐ | CUDA, FP16 mixed precision, pipeline parallelism — 60x clinical NLP inference speedup |
-| **Knowledge Graph Pipelines** | ⭐⭐⭐⭐ | Neo4j graph generation from LLM extraction, 3-tier entity resolution, Postgres staging |
-| **Classical ML** | ⭐⭐⭐⭐ | XGBoost, SMOTE, GridSearchCV, PCA, transfer learning (MobileNetV2) |
+Domain
+
+Proficiency
+
+Details
+
+Agentic Systems
+
+⭐⭐⭐⭐⭐
+
+LangGraph multi-agent workflows, MCP tool orchestration, autonomous dataset auditing with contingency planning
+
+RAG Systems
+
+⭐⭐⭐⭐⭐
+
+ChromaDB, FAISS, Sentence-Transformers, BM25 + RRF hybrid retrieval, pluggable LLM routing
+
+Deep Learning Architectures
+
+⭐⭐⭐⭐⭐
+
+Novel Temporal Deformation Transformer for HAR (95.53% validation accuracy on WISDM-18)
+
+GPU / Parallel Computing
+
+⭐⭐⭐⭐
+
+CUDA, FP16 mixed precision, pipeline parallelism — 60x clinical NLP inference speedup
+
+Knowledge Graph Pipelines
+
+⭐⭐⭐⭐
+
+Neo4j graph generation from LLM extraction, 3-tier entity resolution, Postgres staging
+
+Classical ML
+
+⭐⭐⭐⭐
+
+XGBoost, SMOTE, GridSearchCV, PCA, transfer learning (MobileNetV2)
 
 </div>
 
 <br/>
 
----
-
-## Featured Projects
+Featured Projects
 
 <details>
 <summary><b>🗣️ TakTalk — Deafblind Multimodal Communication System</b></summary>
@@ -126,16 +152,33 @@ Open To: NLP/LLM Engineering Roles, Agentic AI Systems, ML Research Collaboratio
 
 Cross-platform React Native accessibility application implementing the 26-sign LORM tactile alphabet, enabling text-to-touch communication for deafblind users through real-time gesture recognition.
 
-| | |
-|---|---|
-| **Stack** | TypeScript, React Native, Expo, Expo Router, React Context API, Node.js, Expo Haptics, Fetch API |
-| **Scale** | 7.6K+ LOC TypeScript codebase |
-| **Performance** | 1.65M tap recognitions/sec · 1.94M stroke recognitions/sec · 196K text-to-tactile conversions/sec |
-| **Security** | Clean type safety with end-to-end TypeScript verification |
-| **Impact** | 1,541 automated verification checks validating the gesture recognition engine |
-| **Repository** | [View Repo ↗](#) |
 
-Designed and optimized a geometric gesture recognition engine with modular calibration, tactile playback, and messaging pipelines architected for reliability and accessibility.
+
+
+
+Stack
+
+TypeScript, React Native, Expo, Expo Router, React Context API, Node.js, Expo Haptics, Fetch API
+
+Scale
+
+7.6K+ LOC TypeScript codebase
+
+Performance
+
+1.65M tap recognitions/sec · 1.94M stroke recognitions/sec · 196K text-to-tactile conversions/sec
+
+Security
+
+Clean type safety with end-to-end TypeScript verification
+
+Impact
+
+1,541 automated verification checks validating the gesture recognition engine
+
+Repository
+
+View Repo ↗
 
 </details>
 
@@ -145,16 +188,33 @@ Designed and optimized a geometric gesture recognition engine with modular calib
 
 Agentic system that profiles a dataset and autonomously selects which of 5 diagnostic tools to run, rather than exhaustively running all checks.
 
-| | |
-|---|---|
-| **Stack** | Python, Flask, scikit-learn, React, Docker |
-| **Scale** | 25 dataset×detector pairs with injected ground-truth defects |
-| **Performance** | Handles 12k-row datasets in under 3s via adaptive stratified and cluster-based sampling |
-| **Security** | 92% classification accuracy with zero false positives |
-| **Impact** | Cut checks executed by 60% while raising detection precision from 0.54 to 1.00 vs. exhaustive baseline |
-| **Repository** | [View Repo ↗](#) |
 
-Detects target leakage, train/test contamination, class imbalance, spurious correlations, and low-utility features, benchmarked against a forced-all-tools control.
+
+
+
+Stack
+
+Python, Flask, scikit-learn, React, Docker
+
+Scale
+
+25 dataset×detector pairs with injected ground-truth defects
+
+Performance
+
+Handles 12k-row datasets in under 3s via adaptive stratified and cluster-based sampling
+
+Security
+
+92% classification accuracy with zero false positives
+
+Impact
+
+Cut checks executed by 60% while raising detection precision from 0.54 to 1.00 vs. exhaustive baseline
+
+Repository
+
+View Repo ↗
 
 </details>
 
@@ -164,101 +224,123 @@ Detects target leakage, train/test contamination, class imbalance, spurious corr
 
 Retrieval-augmented conversational assistant built over a 60-document corpus with a pluggable multi-backend LLM routing layer.
 
-| | |
-|---|---|
-| **Stack** | FastAPI, WebSockets, sentence-transformers, Ollama, MCP |
-| **Scale** | 60-document corpus, 60-question evaluation set |
-| **Performance** | 90% top-4 recall (MRR 0.79); 21/22 labeled queries routed correctly (97% F1) |
-| **Security** | Pydantic schema validation, timeouts, TTL caching over MCP server |
-| **Impact** | Functional pass rate improved 2/8 → 7/8; test suite grew from 2 to 17 cases |
-| **Repository** | [View Repo ↗](#) |
 
-Implements a 4-tool orchestration suite (CRM, calendar, catalog, calculator) with failover and extractive degradation across 3 LLM backends (Ollama, Gemini, llama.cpp), and 100% of answers carry verified source citations.
+
+
+
+Stack
+
+FastAPI, WebSockets, sentence-transformers, Ollama, MCP
+
+Scale
+
+60-document corpus, 60-question evaluation set
+
+Performance
+
+90% top-4 recall (MRR 0.79); 21/22 labeled queries routed correctly (97% F1)
+
+Security
+
+Pydantic schema validation, timeouts, TTL caching over MCP server
+
+Impact
+
+Functional pass rate improved 2/8 → 7/8; test suite grew from 2 to 17 cases
+
+Repository
+
+View Repo ↗
 
 </details>
 
 <br/>
 
----
+Experience
 
-## Experience
-
-**NLP/LLM Intern** · NASTP (National Aerospace Science and Technology Park)
-`Jun 2026 – Present` · Islamabad, Pakistan
+NLP/LLM Intern · NASTP (National Aerospace Science and Technology Park)Jun 2026 – Present · Islamabad, Pakistan
 
 Building an end-to-end pipeline turning résumé PDFs into a structured Neo4j knowledge graph, staged through Postgres, using a 10-stage LLM graph generation process.
 
-- Orchestrated 10-stage LLM graph generation (competency-question gen → Wikidata property matching → canonicalization → JSON fact extraction) driven by constrained system prompting
-- Optimized extraction by removing a redundant re-validation path, cutting relations reprocessed from 111 → 14 (~50% faster runtime)
-- Implemented a 3-tier entity resolver (exact → embedding + LLM confirm → LLM normalize); fixed duplicate-node and entity-match bugs
-- Ran two local models together (llama.cpp DeepSeek-R1-32B + vLLM Qwen3.5-9B) with reasoning-token suppression and context-window budgeting
-- Tested pipeline with 42 unit tests across 7 files, with the LLM layer mocked for deterministic runs
+Orchestrated 10-stage LLM graph generation (competency-question gen → Wikidata property matching → canonicalization → JSON fact extraction) driven by constrained system prompting
 
-`Python` `FastAPI` `Neo4j` `Postgres` `LangGraph` `LLM Orchestration` `Entity Resolution`
+Optimized extraction by removing a redundant re-validation path, cutting relations reprocessed from 111 → 14 (~50% faster runtime)
+
+Implemented a 3-tier entity resolver (exact → embedding + LLM confirm → LLM normalize); fixed duplicate-node and entity-match bugs
+
+Ran two local models together (llama.cpp DeepSeek-R1-32B + vLLM Qwen3.5-9B) with reasoning-token suppression and context-window budgeting
+
+Tested pipeline with 42 unit tests across 7 files, with the LLM layer mocked for deterministic runs
+
+Python FastAPI Neo4j Postgres LangGraph LLM Orchestration Entity Resolution
 
 <br/>
 
-**AI Intern** · AI GenMat
-`Jun 2025 – Aug 2025` · Islamabad, Pakistan
+AI Intern · AI GenMatJun 2025 – Aug 2025 · Islamabad, Pakistan
 
 Worked across applied ML projects spanning computer vision, tabular modeling, and classical ML from scratch.
 
-- Reproduced and enhanced a Diabetic Retinopathy Detection research paper, improving validation accuracy 34.5% → 50% using MobileNetV2 transfer learning, focal loss, and model optimization
-- Built an Ames Housing price prediction pipeline (preprocessing → feature engineering → Linear Regression), achieving RMSE ≈ $31.4K
-- Developed a loan default classifier using SMOTE + XGBoost, improving ROC-AUC 0.67 → 0.78, deployed as a Streamlit web application
-- Implemented KNN from scratch (NumPy, cosine similarity, weighted voting), achieving 98% accuracy on MNIST
-- Optimized a Decision Tree Regressor with GridSearchCV, achieving R² = 0.775, and analyzed feature importance
-- Applied PCA, SMOTE, EarlyStopping, and ReduceLROnPlateau to improve model performance and training stability
+Reproduced and enhanced a Diabetic Retinopathy Detection research paper, improving validation accuracy 34.5% → 50% using MobileNetV2 transfer learning, focal loss, and model optimization
 
-`Python` `PyTorch` `XGBoost` `Scikit-learn` `Streamlit` `Transfer Learning`
+Built an Ames Housing price prediction pipeline (preprocessing → feature engineering → Linear Regression), achieving RMSE ≈ $31.4K
+
+Developed a loan default classifier using SMOTE + XGBoost, improving ROC-AUC 0.67 → 0.78, deployed as a Streamlit web application
+
+Implemented KNN from scratch (NumPy, cosine similarity, weighted voting), achieving 98% accuracy on MNIST
+
+Optimized a Decision Tree Regressor with GridSearchCV, achieving R² = 0.775, and analyzed feature importance
+
+Applied PCA, SMOTE, EarlyStopping, and ReduceLROnPlateau to improve model performance and training stability
+
+Python PyTorch XGBoost Scikit-learn Streamlit Transfer Learning
 
 <br/>
 
----
-
-## Achievements
+Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏆 **Top 10 Finalist** | QS ImpACT Skills Challenge 2026 — Built GREEN.AI, a Roblox game on AI data center sustainability and UN SDG awareness |
-| 📊 **95.53% Validation Accuracy** | WISDM-18 HAR benchmark using novel temporal deformation Transformer architecture (+10.85% over SETransformer baseline) |
-| ⚡ **60x Inference Speedup** | GPU-optimised clinical NLP inference pipeline, fully preserving ROUGE quality |
-| 📝 **Paper Submission** | Temporal Deformation Transformer for HAR — submitted to IBCAST 2026 |
+Recognition
+
+Details
+
+🏆 Top 10 Finalist
+
+QS ImpACT Skills Challenge 2026 — Built GREEN.AI, a Roblox game on AI data center sustainability and UN SDG awareness
+
+📊 95.53% Validation Accuracy
+
+WISDM-18 HAR benchmark using novel temporal deformation Transformer architecture (+10.85% over SETransformer baseline)
+
+⚡ 60x Inference Speedup
+
+GPU-optimised clinical NLP inference pipeline, fully preserving ROUGE quality
+
+📝 Paper Submission
+
+Temporal Deformation Transformer for HAR — submitted to IBCAST 2026
 
 </div>
 
 <br/>
 
----
+Research
 
-## Research
+Temporal Deformation Transformer for HARNovel Transformer architecture for WISDM-18 HAR; submitted to IBCAST 2026.
 
-**Temporal Deformation Transformer for HAR**
-Novel Transformer architecture for WISDM-18 HAR; submitted to IBCAST 2026.
-
-**GPU-Optimised Clinical NLP Inference**
-FP16 mixed-precision, pipeline-parallel inference; 60x speedup over CPU baseline, paper in preparation.
+GPU-Optimised Clinical NLP InferenceFP16 mixed-precision, pipeline-parallel inference; 60x speedup over CPU baseline, paper in preparation.
 
 <br/>
 
----
+Education
 
-## Education
+BS Artificial Intelligence — FAST-NUCES, Islamabad2023 – PresentRelevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine Learning, Parallel & Distributed Computing, Operating Systems, Data Structures & Algorithms, Software Engineering, Probability & Statistics
 
-**BS Artificial Intelligence** — FAST-NUCES, Islamabad
-`2023 – Present`
-Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine Learning, Parallel & Distributed Computing, Operating Systems, Data Structures & Algorithms, Software Engineering, Probability & Statistics
-
-**FSC Pre-Engineering** — Fazaia Inter College, Islamabad
-`2021 – 2023`
+FSC Pre-Engineering — Fazaia Inter College, Islamabad2021 – 2023
 
 <br/>
 
----
-
-## GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
@@ -271,7 +353,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
-## GitHub Trophies
+GitHub Trophies
 
 <div align="center">
 
@@ -281,7 +363,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
-## Contribution Activity
+Contribution Activity
 
 <div align="center">
 
@@ -291,7 +373,7 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
-## Contribution Snake
+Contribution Snake
 
 <div align="center">
 
@@ -301,11 +383,8 @@ Relevant Coursework: NLP, Artificial Neural Networks, Computer Vision, Machine L
 
 <br/>
 
----
+Current Focus
 
-## Current Focus
-
-```yaml
 Learning:
   - Advanced multi-agent orchestration patterns
   - GPU inference optimization at scale
@@ -322,30 +401,24 @@ Open To:
   - NLP/LLM Engineering roles
   - Agentic AI systems collaborations
   - ML research opportunities
-```
 
 <br/>
 
----
-
-## Connect
+Connect
 
 <div align="center">
 
-<a href="mailto:faryalnet34@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/faryal-siddique"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/faryalsiddique"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:faryalnet34@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a><a href="https://www.linkedin.com/in/faryal-siddique"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a><a href="https://github.com/faryalsiddique"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-*"Building real-world, deployable AI engineering — one pipeline at a time."*
+"Building real-world, deployable AI engineering — one pipeline at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
 
 </div>
+```
